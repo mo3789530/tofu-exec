@@ -10,7 +10,7 @@ import (
 
 	"github.com/hashicorp/go-version"
 
-	"github.com/hashicorp/terraform-exec/tfexec"
+	"github.com/mo3789530/tofu-exec/tfexec"
 )
 
 const defaultWorkspace = "default"
