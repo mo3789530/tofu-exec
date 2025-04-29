@@ -33,6 +33,9 @@ var (
 	tf1_1_0  = version.Must(version.NewVersion("1.1.0"))
 	tf1_4_0  = version.Must(version.NewVersion("1.4.0"))
 	tf1_6_0  = version.Must(version.NewVersion("1.6.0"))
+	tofu1_7_0 = version.Must(version.NewVersion("1.7.0"))
+	tofu1_8_0 = version.Must(version.NewVersion("1.8.0"))
+	tofu1_9_0 = version.Must(version.NewVersion("1.9.0"))
 )
 
 // Version returns structured output from the terraform version command including both the Terraform CLI version
